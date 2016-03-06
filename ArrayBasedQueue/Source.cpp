@@ -8,6 +8,7 @@ int main()
 	Queue Q;
 
 	Q.front();
+	int no;
 
 	Q.enque(56);
 	Q.display(cout);
