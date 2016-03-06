@@ -15,7 +15,7 @@ int main()
 
 	Q.enque(121);
 	//Q.enque(300);
-	//Q.enque(300);
+	Q.enque(300);
 
 	cout << Q.empty() << endl;
 	Q.display(cout);
